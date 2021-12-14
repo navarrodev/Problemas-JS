@@ -1,2 +1,2 @@
-# Problemas-JS
-Alguns problemas java script, pra treinar e talvez pra lembrar alguma coisa no futuro, nunca se sabe :)
+Aqui alguns desafios JS que encontrei por aí juntei tudo nesse repo
+pra treinar e pra vir lembrar de alguma coisa, nunca se sabe.
